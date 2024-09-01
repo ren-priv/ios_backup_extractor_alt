@@ -1,7 +1,7 @@
 # ios_backup_extractor_alt
 ios backup extractor (alternate version)
 
-## USAGE
+## Usage
 
 1. Backup iPhone data with iTunes (no encryption mode)
 2. Download source code
