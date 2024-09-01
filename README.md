@@ -5,7 +5,7 @@ ios backup extractor (alternate version)
 
 1. Backup iPhone data with iTunes (no encryption mode)
 2. Download source code
-3. Open terminal (or CMD, Powershell, etc.) in source code folder
+3. Open Terminal (or CMD, Powershell, etc.) in source code folder
 4. Run `ios_backup_extractor.exe` to check backup ID (Serial Number)
 
     ```
